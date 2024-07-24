@@ -1,4 +1,4 @@
-Holiday Package Prediction
+## Holiday Package Prediction
 Deskripsi: Dataset ini diapakai untuk memprediksi apakah customer akan mengambil packages baru yang akan di launchin oleh "Trips&Travel.com".
 Data: Setiap baris mewakili pelanggan, setiap kolom berisi atribut pelanggan informasi dari pitch, serta target variabelnya.
 Link download disini
